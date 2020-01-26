@@ -1,5 +1,5 @@
 # Happily
-An App for Positive Thinking
+## An App for Positive Thinking
 
   The trope "Happy thoughts, Happy life" is not just a cheeky slogan that is written on thift store mugs. 
   According to a study performed in 2019 [1], positive thinking can actually extend the length of your life. 
@@ -23,15 +23,15 @@ An App for Positive Thinking
 
 url for jupyter notebook : https://raw.githubusercontent.com/nicolenlama/Happily/master/Positive_App.ipynb
 
-## This user had a two bad days in January and February but overall, this user has been pretty positive!
+### This user had a two bad days in January and February but the user has been positive since!
 Inline-style: 
 ![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodVsTime.png "Mood over Time")
 
-## This user consistently speaks about his love life negatively. I wonder what the user can do to improve it?
+### This user consistently speaks about his love life negatively. I wonder what the user can do to improve it?
 Inline-style: 
 ![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodVsTopic.png "Mood and Topics")
 
-## Mood and Subjectivity Heatmap
+### Mood and Subjectivity Heatmap
 Inline-style: 
 ![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodSubjectivityHeatMap.png "Mood and Subjectivity")
 
@@ -40,6 +40,7 @@ Inline-style:
 * Sklearn
 * NLTK
 * TextBlob
+* Seaborn
 
 
 ## References
