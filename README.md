@@ -23,11 +23,23 @@ An App for Positive Thinking
 
 url for jupyter notebook : https://raw.githubusercontent.com/nicolenlama/Happily/master/Positive_App.ipynb
 
+## This user had a two bad days in January and February but overall, this user has been pretty positive!
+Inline-style: 
+![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodVsTime.png "Mood over Time")
+
+## This user consistently speaks about his love life negatively. I wonder what the user can do to improve it?
+Inline-style: 
+![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodVsTopic.png "Mood and Topics")
+
+## Mood and Subjectivity Heatmap
+Inline-style: 
+![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodSubjectivityHeatMap.png "Mood and Subjectivity")
+
 ## Tools
-Gensim
-Sklearn
-NLTK
-TextBlob
+* Gensim
+* Sklearn
+* NLTK
+* TextBlob
 
 
 ## References
