@@ -31,10 +31,10 @@ TextBlob
 
 
 ## References
-Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women. 
+1. Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women. 
 Lewina O. Lee, Peter James, Emily S. Zevon, Eric S. Kim, Claudia Trudel-Fitzgerald, Avron Spiro III, 
 Francine Grodstein, and Laura D. Kubzansky. (September 10 2019). PNAS. https://doi.org/10.1073/pnas.1900712116
 
-Depression doing the Thinking. Estra Marano. July 1 2001. 
+2. Depression doing the Thinking. Estra Marano. July 1 2001. 
 https://www.psychologytoday.com/us/articles/200107/depression-doing-the-thinking
 
