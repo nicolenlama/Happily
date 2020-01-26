@@ -1,7 +1,7 @@
 # Happily
 An App for Positive Thinking
 
-	The trope "Happy thoughts, Happy life" is not just a cheeky slogan that is written on thift store mugs. 
+  The trope "Happy thoughts, Happy life" is not just a cheeky slogan that is written on thift store mugs. 
   According to a study performed in 2019 [1], positive thinking can actually extend the length of your life. 
   Unfortunately, it can be hard to remember to think optimistically, especially for those with clinical depression or anxiety [2]. 
   Currently, there are very few tools available to specifically address having a positive outlook, and those that do exist 
