@@ -24,15 +24,12 @@
 url for jupyter notebook : https://raw.githubusercontent.com/nicolenlama/Happily/master/Positive_App.ipynb
 
 ### This user had two bad days in January and February but the user has been positive since!
-Inline-style: 
 ![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodVsTime.png "Mood over Time")
 
 ### This user consistently speaks about his love life negatively. I wonder what the user can do to improve it?
-Inline-style: 
 ![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodVsTopic.png "Mood and Topics")
 
 ### Mood and Subjectivity Heatmap
-Inline-style: 
 ![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodSubjectivityHeatMap.png "Mood and Subjectivity")
 
 ## Tools
