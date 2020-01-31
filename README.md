@@ -23,7 +23,7 @@
 
 url for jupyter notebook : https://raw.githubusercontent.com/nicolenlama/Happily/master/Positive_App.ipynb
 
-### This user had two bad days in January and February but the user has been positive since!
+### This user had a bad day in March but has been positive since!
 ![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodVsTime.png "Mood over Time")
 
 ### This user consistently speaks about his love life negatively. I wonder what the user can do to improve it?
