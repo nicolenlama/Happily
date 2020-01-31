@@ -27,7 +27,7 @@ url for jupyter notebook : https://raw.githubusercontent.com/nicolenlama/Happily
 ![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodVsTime.png "Mood over Time")
 
 ### This user consistently speaks about his love life negatively. I wonder what the user can do to improve it?
-![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodVsTopic.png "Mood and Topics")
+![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/TopicMood.png "Mood and Topics")
 
 ### Mood and Subjectivity Heatmap
 ![alt text](https://github.com/nicolenlama/Happily/blob/master/Images/MoodSubjectivityHeatMap.png "Mood and Subjectivity")
